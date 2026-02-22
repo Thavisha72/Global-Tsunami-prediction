@@ -1,1 +1,1 @@
-# Global-Earthquake-prediction
+# Global-Tsunami-prediction
