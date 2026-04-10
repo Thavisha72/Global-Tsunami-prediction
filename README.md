@@ -12,6 +12,8 @@ Compared 4 Machine Learning models with accuracies
     
     Decision Tree          85 %
 
+This project helps to identify how factors like Earthquake magnitude, Event significance score, Earthquake focal depth, Epicenter latitude, Epicenter longitude force to happen a tsunami.
+
 Dataset - https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset/data
 
 
