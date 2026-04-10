@@ -3,9 +3,13 @@
 A machine learning model to analyze global seismic activity data and predict potential tsunami events by performing comprehensive EDA, feature analysis, data preprocessing, predictive modeling to identify highrisk patterns and improve early warning insights and also created a PowerBI dashboard for data visualisation. 
 
 Compared 4 Machine Learning models with accuracies
+
     Logistic Reggression  82 %
+    
     Random Forest         95 %
+    
     Support Vector Machine 79 %
+    
     Decision Tree          85 %
 
 Dataset - https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset/data
