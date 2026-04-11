@@ -20,3 +20,9 @@ Dataset - https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-r
 <img width="1022" height="598" alt="image" src="https://github.com/user-attachments/assets/91dd81cc-12ac-453d-9e3f-149a47b022f3" />
 
 Power BI Dashboard
+
+
+<img width="1329" height="742" alt="image" src="https://github.com/user-attachments/assets/061605ab-ec7c-4773-857d-f008749d37bb" />
+
+
+<img width="1322" height="743" alt="image" src="https://github.com/user-attachments/assets/aa4ca374-c7c9-47aa-9abb-2df19ea18aed" />
